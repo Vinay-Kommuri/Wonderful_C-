@@ -1,0 +1,11 @@
+C:\Users\Vinay.kommuri\example\src\Example\bin\Debug\netcoreapp2.2\Example.deps.json
+C:\Users\Vinay.kommuri\example\src\Example\bin\Debug\netcoreapp2.2\Example.runtimeconfig.json
+C:\Users\Vinay.kommuri\example\src\Example\bin\Debug\netcoreapp2.2\Example.runtimeconfig.dev.json
+C:\Users\Vinay.kommuri\example\src\Example\bin\Debug\netcoreapp2.2\Example.dll
+C:\Users\Vinay.kommuri\example\src\Example\bin\Debug\netcoreapp2.2\Example.pdb
+C:\Users\Vinay.kommuri\example\src\Example\obj\Debug\netcoreapp2.2\Example.csprojAssemblyReference.cache
+C:\Users\Vinay.kommuri\example\src\Example\obj\Debug\netcoreapp2.2\Example.csproj.CoreCompileInputs.cache
+C:\Users\Vinay.kommuri\example\src\Example\obj\Debug\netcoreapp2.2\Example.AssemblyInfoInputs.cache
+C:\Users\Vinay.kommuri\example\src\Example\obj\Debug\netcoreapp2.2\Example.AssemblyInfo.cs
+C:\Users\Vinay.kommuri\example\src\Example\obj\Debug\netcoreapp2.2\Example.dll
+C:\Users\Vinay.kommuri\example\src\Example\obj\Debug\netcoreapp2.2\Example.pdb
